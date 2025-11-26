@@ -24,3 +24,6 @@ A simple, beginner-friendly **Java console application** that fetches **real-tim
 ---
 
 ## 📂 Project Structure
+JavaWeatherApp/
+├── Main.java
+└── README.md
